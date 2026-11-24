@@ -22,7 +22,7 @@ Farklı sütun adlarını, karışık tarih ve tutar yazımlarını, yinelenen v
 Python 3.8 veya üstü gerekir.
 
 ```bash
-git clone <depo-adresi> excel-rapor-otomasyonu && cd excel-rapor-otomasyonu
+git clone https://github.com/caniyli/excel-rapor-otomasyonu.git && cd excel-rapor-otomasyonu
 python3 -m venv .venv && source .venv/bin/activate    # Windows: .venv\Scripts\activate
 pip install -r requirements.txt
 python -m rapor ornek_veri/ --cikti rapor.xlsx
