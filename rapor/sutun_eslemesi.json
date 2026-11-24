@@ -1,0 +1,10 @@
+{
+  "_aciklama": "Her alan için dosyalarınızda geçen sütun adları. Büyük/küçük harf, Türkçe karakter ve fazla boşluk önemsizdir. Kendi dosyanızdaki başlık burada yoksa ilgili listeye ekleyin.",
+
+  "tarih": ["Tarih", "Sipariş Tarihi", "Satış Tarihi", "İşlem Tarihi"],
+  "urun": ["Ürün", "Ürün Adı", "Ürün İsmi", "Stok Adı"],
+  "tutar": ["Tutar", "Toplam", "Toplam (TL)", "Tutar (TL)", "Satış Tutarı"],
+  "adet": ["Adet", "Miktar"],
+  "siparis_no": ["Sipariş No", "Fiş No", "Sipariş Numarası"],
+  "sube": ["Şube", "Şube Adı", "Mağaza"]
+}
