@@ -1,0 +1,18 @@
+{
+  "dosya_sayisi": 9,
+  "satir_sayisi": 419,
+  "siparis_sayisi": 419,
+  "yinelenen": 13,
+  "bozuk": 11,
+  "toplam_ciro": 394506.75,
+  "sube_ciro": {
+    "Kadıköy": 134820.5,
+    "Çankaya": 111389.5,
+    "Konak": 148296.75
+  },
+  "ay_ciro": {
+    "2026-08": 129052.0,
+    "2026-09": 122737.5,
+    "2026-10": 142717.25
+  }
+}

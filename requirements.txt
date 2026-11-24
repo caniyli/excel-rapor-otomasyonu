@@ -1,0 +1,4 @@
+# Python 3.8+ ile çalışır
+pandas>=1.3
+openpyxl>=3.0.10
+pytest>=7.0
